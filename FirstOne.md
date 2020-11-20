@@ -45,4 +45,24 @@ Adding Links
 ==============
 
 [LinkedIn](https://www.linkedin.com/)
+
 [Header](#Headers "goto Headers")
+
+Ordered and Unordered 
+=======================
+
+* first phase
+  * Second Phase
+    * Third phase
+      * fourth phase
+        * 5th phase
+        
+- 1st phase
+  - 2nd phase
+    - 3rd phase
+       - 4th phase
+       
+1. hello
+    1. welcome
+       1. Priya
+          1. Supriya
