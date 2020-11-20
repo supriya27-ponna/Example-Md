@@ -39,3 +39,9 @@ StrikeThrough Text
 ==================
 
 ~~This line is strikethroughh text~~
+
+
+Adding Links
+==============
+
+[LinkedIn](https://www.linkedin.com/)
